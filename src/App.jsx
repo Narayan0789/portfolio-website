@@ -8,7 +8,7 @@ import Project from "./components/Project";
 import Certificates from "./components/Certificates";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
-import ScrollIndicator from "./components/Scrollindicator";
+import ScrollIndicator from "./components/ScrollIndicator";
 
 
 export default function App() {
