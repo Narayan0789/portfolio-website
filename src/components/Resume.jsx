@@ -76,7 +76,7 @@ export default function Resume() {
 
   {/* Download Resume */}
   <a
-    href="/resume"
+    href="/resume.pdf"
     download
     className="
       inline-flex items-center gap-2
@@ -90,7 +90,7 @@ export default function Resume() {
 
   {/* View Online */}
   <a
-    href="/resume"
+    href="/resume.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="
