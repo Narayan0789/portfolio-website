@@ -90,7 +90,7 @@ export default function Resume() {
 
   {/* View Online */}
   <a
-    href="/Narayan_Kumar_Resume.pdf"
+    href="/resume"
     target="_blank"
     rel="noopener noreferrer"
     className="
