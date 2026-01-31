@@ -76,7 +76,7 @@ export default function Resume() {
 
   {/* Download Resume */}
   <a
-    href="/Narayan_Kumar_Resume.pdf"
+    href="/resume"
     download
     className="
       inline-flex items-center gap-2
